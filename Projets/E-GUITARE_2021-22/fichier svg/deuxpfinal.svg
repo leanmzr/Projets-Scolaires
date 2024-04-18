@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg3790"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="deuxpfinal.svg">
+  <style
+     id="style2192">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style>
+  <metadata
+     id="metadata955">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview3792"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="0.58843154"
+     inkscape:cx="283.14184"
+     inkscape:cy="433.42739"
+     inkscape:window-width="1404"
+     inkscape:window-height="855"
+     inkscape:window-x="36"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs3787">
+    <inkscape:path-effect
+       effect="measure_segments"
+       id="path-effect2416"
+       is_visible="true"
+       lpeversion="1"
+       unit="mm"
+       orientation="parallel"
+       coloropacity="#000000ff"
+       fontbutton="Sans 10"
+       precision="2"
+       fix_overlaps="0"
+       position="5"
+       text_top_bottom="0"
+       helpline_distance="0"
+       helpline_overlap="2"
+       line_width="0.25"
+       scale="1"
+       format="{measure}{unit}"
+       blacklist=""
+       active_projection="false"
+       whitelist="false"
+       showindex="false"
+       arrows_outside="false"
+       flip_side="false"
+       scale_sensitive="true"
+       local_locale="true"
+       rotate_anotation="true"
+       hide_back="true"
+       hide_arrows="false"
+       smallx100="false"
+       linked_items=""
+       distance_projection="20"
+       angle_projection="0"
+       avoid_overlapping="true"
+       onbbox="false"
+       bboxonly="false"
+       centers="false"
+       maxmin="false"
+       helpdata="&lt;b&gt;&lt;big&gt;Général&lt;/big&gt;&lt;/b&gt;
+Affichage et positionnement des mesures
+
+&lt;b&gt;&lt;big&gt;Projection&lt;/big&gt;&lt;/b&gt;
+Projette les mesures sur une ligne à partir des éléments sélectionnés
+
+&lt;b&gt;&lt;big&gt;Options&lt;/big&gt;&lt;/b&gt;
+Options pour la couleur, la précision, le formattage des libellés et l'affichage
+
+&lt;b&gt;&lt;big&gt;Astuces&lt;/big&gt;&lt;/b&gt;
+&lt;b&gt;&lt;i&gt;Style personnalisé :&lt;/i&gt;&lt;/b&gt; parcourez les styles à l'aide d'un éditeur XML pour trouver des classes ou IDs, puis utilisez la boîte de dialogue de Style pour appliquer un nouveau style.
+&lt;b&gt;&lt;i&gt;Liste noire :&lt;/i&gt;&lt;/b&gt; elle permet d'occulter les mesures des segments et projections désignés.
+&lt;b&gt;&lt;i&gt;Mesures multiples :&lt;/i&gt;&lt;/b&gt; sur le même objet, vous pouvez combiner des listes noires et d'autres ECI de mesure pour afficher différentes orientations ou projections.
+&lt;b&gt;&lt;i&gt;Définir les paramètres par défaut :&lt;/i&gt;&lt;/b&gt; Disponible en bas pour tous les ECI." />
+    <inkscape:path-effect
+       effect="measure_segments"
+       id="path-effect2344"
+       is_visible="true"
+       lpeversion="1"
+       unit="mm"
+       orientation="parallel"
+       coloropacity="#000000ff"
+       fontbutton="Sans 10"
+       precision="2"
+       fix_overlaps="0"
+       position="6"
+       text_top_bottom="0"
+       helpline_distance="0"
+       helpline_overlap="2"
+       line_width="0.15"
+       scale="1"
+       format="{measure}{unit}"
+       blacklist=""
+       active_projection="false"
+       whitelist="false"
+       showindex="false"
+       arrows_outside="false"
+       flip_side="true"
+       scale_sensitive="true"
+       local_locale="true"
+       rotate_anotation="true"
+       hide_back="true"
+       hide_arrows="false"
+       smallx100="false"
+       linked_items=""
+       distance_projection="20"
+       angle_projection="0"
+       avoid_overlapping="true"
+       onbbox="false"
+       bboxonly="false"
+       centers="false"
+       maxmin="false"
+       helpdata="&lt;b&gt;&lt;big&gt;Général&lt;/big&gt;&lt;/b&gt;
+Affichage et positionnement des mesures
+
+&lt;b&gt;&lt;big&gt;Projection&lt;/big&gt;&lt;/b&gt;
+Projette les mesures sur une ligne à partir des éléments sélectionnés
+
+&lt;b&gt;&lt;big&gt;Options&lt;/big&gt;&lt;/b&gt;
+Options pour la couleur, la précision, le formattage des libellés et l'affichage
+
+&lt;b&gt;&lt;big&gt;Astuces&lt;/big&gt;&lt;/b&gt;
+&lt;b&gt;&lt;i&gt;Style personnalisé :&lt;/i&gt;&lt;/b&gt; parcourez les styles à l'aide d'un éditeur XML pour trouver des classes ou IDs, puis utilisez la boîte de dialogue de Style pour appliquer un nouveau style.
+&lt;b&gt;&lt;i&gt;Liste noire :&lt;/i&gt;&lt;/b&gt; elle permet d'occulter les mesures des segments et projections désignés.
+&lt;b&gt;&lt;i&gt;Mesures multiples :&lt;/i&gt;&lt;/b&gt; sur le même objet, vous pouvez combiner des listes noires et d'autres ECI de mesure pour afficher différentes orientations ou projections.
+&lt;b&gt;&lt;i&gt;Définir les paramètres par défaut :&lt;/i&gt;&lt;/b&gt; Disponible en bas pour tous les ECI." />
+    <marker
+       id="ArrowDIN-start"
+       class="path2342 path-effect2344 measure-arrow-marker"
+       inkscape:stockid="ArrowDIN-start"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       sodipodi:insensitive="true">
+      <path
+         d="M -8,0 8,-2.11 8,2.11 z"
+         class="path2342 path-effect2344 measure-arrow"
+         id="ArrowDIN-start_path"
+         style="fill:context-stroke;;fill-opacity:1;stroke:none" />
+    </marker>
+    <marker
+       id="ArrowDIN-end"
+       class="path2342 path-effect2344 measure-arrow-marker"
+       inkscape:stockid="ArrowDIN-end"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       sodipodi:insensitive="true">
+      <path
+         d="M 8,0 -8,2.11 -8,-2.11 z"
+         class="path2342 path-effect2344 measure-arrow"
+         id="ArrowDIN-end_path"
+         style="fill:context-stroke;;fill-opacity:1;stroke:none" />
+    </marker>
+    <marker
+       id="ArrowDINout-start"
+       class="path2342 path-effect2344 measure-arrow-marker"
+       inkscape:stockid="ArrowDINout-start"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       sodipodi:insensitive="true">
+      <path
+         d="M 0,0 -16,2.11 -16,0.5 -26,0.5 -26,-0.5 -16,-0.5 -16,-2.11 z"
+         class="path2342 path-effect2344 measure-arrow"
+         id="ArrowDINout-start_path"
+         style="fill:context-stroke;;fill-opacity:1;stroke:none" />
+    </marker>
+    <marker
+       id="ArrowDINout-end"
+       class="path2342 path-effect2344 measure-arrow-marker"
+       inkscape:stockid="ArrowDINout-end"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       sodipodi:insensitive="true">
+      <path
+         d="M 0,0 16,-2.11 16,-0.5 26,-0.5 26,0.5 16,0.5 16,2.11 z"
+         class="path2342 path-effect2344 measure-arrow"
+         id="ArrowDINout-end_path"
+         style="fill:context-stroke;;fill-opacity:1;stroke:none" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect3816"
+       style="fill:none;stroke:#ff0000;stroke-width:0.306;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 51.445219,42.86272 v 4.014742 H 41.430326 v 88.179118 h 20.163627 c -0.028,-0.41659 -0.04729,-0.83371 -0.05788,-1.25109 -1.8e-5,-2.30398 -0.652047,-55.350076 -0.160296,-58.113609 3.044554,-17.109743 58.072753,-16.248383 59.031633,-2.016104 1.17219,17.398445 1.12875,43.560983 1.12862,60.129713 -0.0106,0.41738 -0.0299,0.8345 -0.0579,1.25109 h 19.14612 V 47.072799 H 130.41402 V 42.86272 h -19.24068 v 4.243152 h -10.2924 V 42.86272 H 81.173119 v 4.243152 H 70.881241 V 42.86272 Z"
+       sodipodi:nodetypes="ccccccssccccccccccccccc" />
+    <path
+       id="rect3816-9"
+       style="fill:none;stroke:#ff0000;stroke-width:0.306;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 52.740292,139.19275 v 4.01474 H 42.725399 v 88.17912 h 20.163627 c -0.028,-0.41659 -0.04729,-0.83371 -0.05788,-1.25109 -1.8e-5,-2.30398 -0.652047,-55.35007 -0.160296,-58.11361 3.044554,-17.10974 58.07275,-16.24838 59.03163,-2.0161 1.1722,17.39844 1.12876,43.56098 1.12863,60.12971 -0.0106,0.41738 -0.0299,0.8345 -0.0579,1.25109 h 19.14611 V 143.40283 H 131.7091 v -4.21008 h -19.24069 v 4.24315 h -10.2924 v -4.24315 H 82.468192 v 4.24315 H 72.176314 v -4.24315 z"
+       sodipodi:nodetypes="ccccccssccccccccccccccc" />
+    <path
+       style="opacity:0;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 106.17334,96.627541 V 8.6437609 H 95.963106 V 4.4336819 H 76.722427"
+       id="path2342"
+       inkscape:path-effect="#path-effect2344"
+       inkscape:original-d="M 106.17334,96.627541 V 8.6437609 H 95.963106 V 4.4336819 H 76.722427"
+       transform="translate(34.450913,38.429038)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458300000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0"
+       d="M 41.430326,135.05658 H 61.593951 121.47813"
+       id="path2414"
+       inkscape:path-effect="#path-effect2416"
+       inkscape:original-d="M 41.430326,135.05658 H 61.593951 121.47813" />
+  </g>
+  <path
+     id="infoline-on-start-0-path-effect2344"
+     class="path2342 path-effect2344 measure-helper-line measure-line"
+     d="m 140.62425,135.05658 h 8"
+     sodipodi:insensitive="true"
+     inkscape:label="dinhelpline"
+     style="stroke-width:0.15;stroke:#000000;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text-on-0-path-effect2344"
+     class="path2342 path-effect2344 measure-label"
+     sodipodi:insensitive="true"
+     x="139.72837"
+     y="91.064689"
+     style="font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1;font-size:3.52778px"
+     transform="rotate(-90,148.03536,91.064689)"><tspan
+       sodipodi:role="line"
+       id="tspan2352">87,98mm</tspan></text>
+  <path
+     id="infoline-on-end-0-path-effect2344"
+     class="path2342 path-effect2344 measure-helper-line measure-line"
+     d="m 140.62425,47.072799 h 8"
+     sodipodi:insensitive="true"
+     inkscape:label="dinhelpline"
+     style="stroke-width:0.15;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-0-path-effect2344"
+     class="path2342 path-effect2344 measure-DIM-line measure-line"
+     d="m 146.62425,133.85658 v -33.01896 m 0,-19.545862 V 48.272799"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.15;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-on-start-1-path-effect2344"
+     class="path2342 path-effect2344 measure-helper-line measure-line"
+     d="m 140.62425,47.072799 v -8"
+     sodipodi:insensitive="true"
+     inkscape:label="dinhelpline"
+     style="stroke-width:0.15;stroke:#000000;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text-on-1-path-effect2344"
+     class="path2342 path-effect2344 measure-label"
+     sodipodi:insensitive="true"
+     x="130.3465"
+     y="28.176918"
+     style="font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1;font-size:3.52778px"
+     transform="rotate(-90,138.51914,28.176918)"><tspan
+       sodipodi:role="line"
+       id="tspan2358">10,21mm</tspan></text>
+  <path
+     id="infoline-on-end-1-path-effect2344"
+     class="path2342 path-effect2344 measure-helper-line measure-line"
+     d="m 130.41402,47.072799 7.41421,-7.414214"
+     sodipodi:insensitive="true"
+     inkscape:label="dinhelpline"
+     style="stroke-width:0.15;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-1-path-effect2344"
+     class="path2342 path-effect2344 measure-DIM-line measure-line"
+     d="m 140.62425,39.872799 -4.21023,2.4"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="display:none;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.15;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-on-start-2-path-effect2344"
+     class="path2342 path-effect2344 measure-helper-line measure-line"
+     d="m 130.41402,47.072799 7.41421,-7.414214"
+     sodipodi:insensitive="true"
+     inkscape:label="dinhelpline"
+     style="stroke-width:0.15;stroke:#000000;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text-on-2-path-effect2344"
+     class="path2342 path-effect2344 measure-label"
+     sodipodi:insensitive="true"
+     x="144.77512"
+     y="41.967759"
+     style="font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1;font-size:3.52778px"><tspan
+       sodipodi:role="line"
+       id="tspan2364">4,21mm</tspan></text>
+  <path
+     id="infoline-on-end-2-path-effect2344"
+     class="path2342 path-effect2344 measure-helper-line measure-line"
+     d="m 130.41402,42.86272 h 8"
+     sodipodi:insensitive="true"
+     inkscape:label="dinhelpline"
+     style="stroke-width:0.15;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-2-path-effect2344"
+     class="path2342 path-effect2344 measure-DIM-line measure-line"
+     d="m 137.61402,41.072799 -2.4,1.789921"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="display:none;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.15;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-on-start-3-path-effect2344"
+     class="path2342 path-effect2344 measure-helper-line measure-line"
+     d="m 130.41402,42.86272 v -8"
+     sodipodi:insensitive="true"
+     inkscape:label="dinhelpline"
+     style="stroke-width:0.15;stroke:#000000;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text-on-3-path-effect2344"
+     class="path2342 path-effect2344 measure-label"
+     sodipodi:insensitive="true"
+     x="112.62105"
+     y="38.273831"
+     style="font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1;font-size:3.52778px"><tspan
+       sodipodi:role="line"
+       id="tspan2370">19,24mm</tspan></text>
+  <path
+     id="infoline-on-end-3-path-effect2344"
+     class="path2342 path-effect2344 measure-helper-line measure-line"
+     d="m 111.17334,42.86272 v -8"
+     sodipodi:insensitive="true"
+     inkscape:label="dinhelpline"
+     style="stroke-width:0.15;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-3-path-effect2344"
+     class="path2342 path-effect2344 measure-DIM-line measure-line"
+     d="M 129.21402,36.86272 H 112.37334"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.15;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-on-start-0-path-effect2416"
+     class="path2414 path-effect2416 measure-helper-line measure-line"
+     d="m 41.430326,135.05658 v -7"
+     sodipodi:insensitive="true"
+     inkscape:label="dinhelpline"
+     style="stroke-width:0.25;stroke:#000000;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text-on-0-path-effect2416"
+     class="path2414 path-effect2416 measure-label"
+     sodipodi:insensitive="true"
+     x="43.238737"
+     y="131.46769"
+     style="font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1;font-size:3.52778px"><tspan
+       sodipodi:role="line"
+       id="tspan2420">20,16mm</tspan></text>
+  <path
+     id="infoline-on-end-0-path-effect2416"
+     class="path2414 path-effect2416 measure-helper-line measure-line"
+     d="m 61.593951,135.05658 v -7"
+     sodipodi:insensitive="true"
+     inkscape:label="dinhelpline"
+     style="stroke-width:0.25;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-0-path-effect2416"
+     class="path2414 path-effect2416 measure-DIM-line measure-line"
+     d="M 43.430326,130.05658 H 59.593951"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="display:none;marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.25;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-on-start-1-path-effect2416"
+     class="path2414 path-effect2416 measure-helper-line measure-line"
+     d="m 61.593951,135.05658 v -7"
+     sodipodi:insensitive="true"
+     inkscape:label="dinhelpline"
+     style="stroke-width:0.25;stroke:#000000;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text-on-1-path-effect2416"
+     class="path2414 path-effect2416 measure-label"
+     sodipodi:insensitive="true"
+     x="83.285032"
+     y="131.46769"
+     style="font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;fill-opacity:1;font-size:3.52778px"><tspan
+       sodipodi:role="line"
+       id="tspan2426">59,88mm</tspan></text>
+  <path
+     id="infoline-on-end-1-path-effect2416"
+     class="path2414 path-effect2416 measure-helper-line measure-line"
+     d="m 121.47813,135.05658 v -7"
+     sodipodi:insensitive="true"
+     inkscape:label="dinhelpline"
+     style="stroke-width:0.25;stroke:#000000;stroke-opacity:1" />
+  <path
+     id="infoline-1-path-effect2416"
+     class="path2414 path-effect2416 measure-DIM-line measure-line"
+     d="m 63.593951,130.05658 h 18.23502 m 19.414139,0 h 18.23502"
+     sodipodi:insensitive="true"
+     inkscape:label="dinline"
+     style="marker-start:url(#ArrowDIN-start);marker-end:url(#ArrowDIN-end);stroke-width:0.25;stroke:#000000;stroke-opacity:1" />
+</svg>
